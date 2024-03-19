@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'm a Full-Stack Developer<br>
-I'm Utilising the Django Rest Framework to build robust backend and API Development <br> 
+With a passion for turning ideas into reality, I am an experienced Python/Django developer specializing in mature API and flexible database designs As a current Software Engineer at Benthon Labs, I use Django Templates , Django Rest, and Serverless Framework are used for simple GCP integration . In previous roles, such as Software Developer Engineer at CreateBytes and Blockchain Developer at Rapid Innovation, I supported sophisticated Machine Learning and AI products.<br>
+
+My project portfolio includes Ginee AI, AI Marketing SaaS Software, and Zeplyn.ai, which extends the Zoom app and leads visualization platforms. I have also played a key role in the development of the Video Analytics Platform, YugYog, and ML-based microservices using FastAPI in CB-Vision.<br>
+
+Bringing together a set of skills that incorporate AWS, GCP, Azure, and blockchain technologies, I thrive in dynamic environments. I got my B.Tech in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University and various certifications including GCP Fundamentals and Python & Django Framework confirm my commitment to continue learning.<br>
+
+Let’s work together and innovate! 🌐💼🚀 
 
 
 
