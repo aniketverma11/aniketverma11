@@ -19,7 +19,7 @@
   <a href="mailto:aniketverma1103@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniketverma11"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/aniketverma11"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/aniketverma11"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/aniket_verma11"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
