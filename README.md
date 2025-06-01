@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Senior Python Developer | Cloud & Blockchain Enthusiast | Backend Engineer</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+and+Exciting+Opportunities;Cloud+%26+DevOps+Specialist;Blockchain+Builder;Tech+Mentor+%26+Team+Player;Always+Learning+%F0%9F%92%AB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Exciting+Opportunities;Cloud+%26+DevOps+Specialist;Blockchain+Builder;Tech+Mentor+%26+Team+Player;Always+Learning+%F0%9F%92%AB" alt="Typing SVG"/>
 </p>
 
 <p align="center">
