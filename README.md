@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Senior Python Developer | Cloud & Blockchain Enthusiast | Backend Engineer</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Exciting+Opportunities;Cloud+%26+DevOps+Specialist;Blockchain+Builder;Tech+Mentor+%26+Team+Player;Always+Learning+%F0%9F%92%AB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Excellent+Teams;Cloud+and+Blockchain+Engineer" />
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aniketverma11&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aniketverma11&icon=0&color=0" alt="Profile Visits"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketverma11" alt="Profile Visits"/>
 </p>
 
 ---
