@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1hFNVTP3Gs93dnDA8JZpOfNIrMYbxqxzS" height="180" alt="Banner"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Z2l0CaV-wHgyRrekWRnut8DUhwxBiqwh" height="180" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#2e7dff">Aniket Verma</span> 👋</h1>
