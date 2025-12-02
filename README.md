@@ -11,7 +11,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#2e7dff">Aniket Verma</span> 👋</h1>
 
 <p align="center">
-  <b>Senior Python Developer | Cloud & Blockchain Enthusiast | Backend Engineer</b><br>
+  <b>Senior GenAI/Agent Developer | Cloud & Blockchain Enthusiast | Backend Engineer</b><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=800&color=2E7DFF&center=true&vCenter=true&width=500&lines=Python+Django+Expert;Open+To+Work+For+Excellent+Teams;Cloud+and+Blockchain+Engineer" />
 </p>
 
