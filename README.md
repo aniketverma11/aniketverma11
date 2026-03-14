@@ -1,319 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aniket%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20GenAI%20%26%20ML%20Infrastructure%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Aniket Verma
 
-</div>
+**Senior GenAI & ML Infrastructure Engineer**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+production+AI+infrastructure+at+scale;vLLM+%7C+LangGraph+%7C+CrewAI+%7C+Agentic+Systems;Fine-tuning+%26+deploying+LLMs+on+A100+%2F+H100+GPUs;Backend+Architect+%7C+Cloud+%26+MLOps+Practitioner)](https://git.io/typing-svg)
+[aniketverma1103@gmail.com](mailto:aniketverma1103@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/aniketverma11) &nbsp;·&nbsp; [GitHub](https://github.com/aniketverma11) &nbsp;·&nbsp; [Twitter](https://twitter.com/aniket_verma11) &nbsp;·&nbsp; Noida, India
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketverma1103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketverma11)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketverma11)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniket_verma11)
-[![Location](https://img.shields.io/badge/📍_Noida,_India-333333?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
-
-</div>
-
-<br/>
-
-## `$ whoami`
-
-```python
-class AniketVerma:
-    role        = "Senior GenAI & ML Infrastructure Engineer"
-    location    = "Noida, Uttar Pradesh, India"
-    experience  = "3+ years in production AI, backend, and cloud systems"
-
-    current_work = [
-        "Building AI infrastructure @ Charter Communications (BGP/Network monitoring, Airflow pipelines)",
-        "Deploying & fine-tuning LLMs on H100/A100 GPU clusters via vLLM (Orinn platform)",
-        "Architecting agentic systems with LangGraph, CrewAI, LangChain",
-        "FastAPI microservices + Nginx load balancing for inference at scale",
-    ]
-
-    expertise = {
-        "AI/ML":     ["vLLM", "LangGraph", "LangChain", "CrewAI", "PyTorch", "TensorFlow", "RAG"],
-        "Backend":   ["Python", "Django", "FastAPI", "Celery", "Airflow", "GraphQL"],
-        "Cloud":     ["GCP (A100/H100 VMs)", "AWS (EC2, S3, Lambda, SageMaker)", "Azure"],
-        "DevOps":    ["Docker", "Kubernetes", "Nginx", "CI/CD", "Linux"],
-        "Databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        "Other":     ["Blockchain", "Solidity", "Web3", "MERN"],
-    }
-
-    quote = "Build systems that outlast the hype."
-```
+I build and operate production AI infrastructure — from fine-tuning LLMs to deploying them on GPU clusters and wiring up agentic systems that run in production. Currently working at **Charter Communications** on network monitoring pipelines, and independently running the **Orinn** AI platform on GCP H100/A100 hardware.
 
 ---
 
-## 🏢 Professional Experience
+## Experience
 
-<table>
-<tr>
-<td width="50%">
+**Senior Software Engineer &mdash; Charter Communications** &nbsp;&nbsp;`Sep 2024 – Present`
 
-### 🔷 Charter Communications
-**Senior Software Engineer — NetOps**
-`Sep 2024 – Present`
+Working on the NetOps team — Python-based Airflow pipelines for BGP/network monitoring and ARIN WHOIS data ingestion. Refactored the `juniper_inventory_report` project: extracted a standalone `GraphQLClient` package with lazy auth and retry logic, rewrote report and mailer modules using stdlib only, removed Vault dependency in favor of Airflow-native secrets, and migrated to `pyproject.toml`.
 
-- Network monitoring & BGP infrastructure using Python Airflow pipelines
-- Onboarded to ARIN WHOIS scraper codebase; extending network telemetry features
-- Refactored `juniper_inventory_report` DAG: extracted standalone `GraphQLClient` package with lazy auth + retry logic
-- Migrated project to `pyproject.toml`; eliminated Vault dependency by leveraging Airflow-native secrets
+**Senior Software Engineer &mdash; Coforge** &nbsp;&nbsp;`Sep 2024 – Present`
 
-</td>
-<td width="50%">
+Building backend systems for insurance and mortgage platforms using Django and ReactJS. Developed AI-powered workflow automation features and SDLC tooling with FastAPI and Jinja2.
 
-### 🔶 Coforge
-**Senior Software Engineer**
-`Sep 2024 – Present`
+**Full Stack Python Developer &mdash; Benthon Labs** &nbsp;&nbsp;`Oct 2023 – Jul 2024`
 
-- Architecting insurance, reinsurance & mortgage solutions (Django, ReactJS)
-- Driving AI-powered mobile features and workflow automation
-- Built SDLC tooling with FastAPI + Jinja2 templating layer
+Led development of a CRM system (Node.js, Express, MongoDB, AWS EC2). Designed a microservices architecture that improved API response times and system reliability.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Software Developer Engineer &mdash; CreateBytes** &nbsp;&nbsp;`Jul 2022 – Sep 2023`
 
-### 🟣 Benthon Labs
-**Full Stack Python Developer**
-`Oct 2023 – Jul 2024`
+Built ML/AI SaaS products on AWS. Delivered YugYog — a video analytics platform with 30% faster data processing via a custom ML pipeline on AWS.
 
-- Led development of CRM system (Node.js, Express, MongoDB, AWS EC2)
-- Designed microservices architecture; improved API response times and customer satisfaction scores
+**Blockchain Developer &mdash; Rapid Innovation** &nbsp;&nbsp;`Nov 2021 – Jul 2022`
 
-</td>
-<td width="50%">
-
-### 🟢 CreateBytes
-**Software Developer Engineer — Python/Django**
-`Jul 2022 – Sep 2023`
-
-- Built scalable ML/AI SaaS products on AWS
-- Delivered **YugYog** — video analytics platform with 30% faster data processing
-- Built custom CRM + ML microservices pipelines
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🔴 Rapid Innovation
-**Blockchain Developer**
-`Nov 2021 – Jul 2022`
-
-- Built DApps & smart contracts (Solidity, Hardhat, Chai, Python automation)
-- Automated end-to-end blockchain testing workflows; delivered Web3 integrations for production clients
-
-</td>
-</tr>
-</table>
+Developed production DApps and smart contracts in Solidity. Built an automated testing suite using Chai and Hardhat with Python orchestration.
 
 ---
 
-## 🤖 AI Infrastructure — Orinn Platform
+## Projects
 
-> *Building and operating a private AI inference cloud from the ground up.*
+**Orinn AI Platform** &nbsp;&nbsp;[orinn.in](https://orinn.in)
 
-<div align="center">
+Private LLM inference cloud. Fine-tuned and deployed Orinn-1.6 (Qwen3.5-based) and Orinn-1.7 (Flash Linear Attention architecture) on GCP H100 and 2×A100 clusters via vLLM. FastAPI serves as the user-facing layer; Nginx distributes traffic across GPU nodes. Model weights synced to AWS S3. Agentic layer built on LangGraph, LangChain, and CrewAI.
 
-| Component | Details |
-|-----------|---------|
-| **Models** | Orinn-1.6 (Qwen3.5-based fine-tune), Orinn-1.7 (Flash Linear Attention architecture) |
-| **Inference Engine** | vLLM on GCP H100 (`gpu-1xh100`) + 2×A100 cluster |
-| **Load Balancer** | Nginx upstream routing across GPU nodes |
-| **API Layer** | FastAPI microservices — text, multimodal (PDF/image) |
-| **Storage** | AWS S3 (`final-model-orinn-30b`) for model weights sync |
-| **Agentic Stack** | LangGraph · LangChain · CrewAI · Microsoft Copilot Studio |
+Key engineering: recovered a stopped GCP H100 VM by booting from its detached disk on a fresh instance with zero data loss; diagnosed and fixed Orinn-1.7 throughput bottleneck (tensor format mismatch → `VLLM_USE_V1=1`); patched `default_loader.py` to skip visual weight validation on text-only VL-named model weights.
 
-</div>
+**LabOps** &nbsp;&nbsp;[labops.in](https://labops.in)
 
-**Notable engineering challenges solved:**
-- 🔧 GCP H100 VM recovery: booted from detached disk on a new instance, migrated static IP with zero data loss
-- ⚡ Diagnosed & fixed Orinn-1.7 slow throughput — traced to tensor format mismatch; resolved with `VLLM_USE_V1=1`
-- 🛠️ Surgical patch to `default_loader.py` to skip `visual.*` weight validation on text-only VL-named model weights
-- 🏗️ Built Nginx load balancer distributing vLLM inference traffic across both GPU machines
+Lab Management System. Reduced AWS infrastructure costs by 50% through backend architecture optimization — Django, PostgreSQL, and targeted query tuning.
+
+**Baimanus.in**
+
+News platform for Maharashtra's tribal communities. Django backend, AWS CloudFront and S3 for fast, reliable content delivery.
+
+**LegalExpert API**
+
+Legal document export service — FastAPI + Nginx on Ubuntu, multi-environment Gunicorn worker tuning, cron-based cleanup of export artifacts.
 
 ---
 
-## 🌟 Featured Projects
+## Skills
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠 Orinn AI Platform
-`orinn.in` · `labops.in`
-
-Private LLM inference cloud — custom fine-tuned models deployed on H100/A100 clusters via vLLM, served through FastAPI + Nginx
-
-**Stack:** vLLM · FastAPI · GCP · Nginx · PyTorch
-
-</td>
-<td align="center" width="33%">
-
-### 🗂️ LabOps
-`labops.in (2024)`
-
-Lab Management System that cut AWS infrastructure costs by **50%** through optimized Django + PostgreSQL backend architecture
-
-**Stack:** Django · PostgreSQL · AWS · Docker
-
-</td>
-<td align="center" width="33%">
-
-### 📰 Baimanus.in
-`2024`
-
-News platform serving Maharashtra's tribal communities — built with Django, AWS CDN & CloudFront for fast, reliable content delivery
-
-**Stack:** Django · AWS CloudFront · CDN · S3
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 📊 YugYog
-`CreateBytes (2022–23)`
-
-Video analytics platform — achieved **30% faster** data processing with custom ML pipeline on AWS. High user satisfaction scores post-launch.
-
-**Stack:** Django · AWS · ML Pipelines · PostgreSQL
-
-</td>
-<td align="center" width="33%">
-
-### ⚖️ LegalExpert API
-`api-legalexpert.api.tamko.com`
-
-Legal document export service — FastAPI + Nginx on Ubuntu, multi-environment worker tuning, cron-based zip cleanup
-
-**Stack:** FastAPI · Nginx · Ubuntu · Celery
-
-</td>
-<td align="center" width="33%">
-
-### 🔗 Web3 DApps
-`Rapid Innovation (2021–22)`
-
-Multiple production DApps & smart contracts — automated testing suite (Chai, Hardhat), Solidity + Python orchestration
-
-**Stack:** Solidity · Hardhat · Python · Ethereum
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **AI / ML** | vLLM, PyTorch, TensorFlow, LangGraph, LangChain, CrewAI, HuggingFace, RAG pipelines |
+| **Backend** | Python, Django, FastAPI, Celery, Apache Airflow, GraphQL, Node.js |
+| **Cloud** | GCP (A100/H100 VMs), AWS (EC2, S3, Lambda, SageMaker, CloudWatch, ECS), Azure |
+| **DevOps** | Docker, Kubernetes, Nginx, Linux, CI/CD |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **Blockchain** | Solidity, Hardhat, Web3.js, Ethereum, DeFi |
 
 ---
 
-## 🛠️ Tech Arsenal
+## Education
 
-<div align="center">
-
-### Core Languages & Runtimes
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### AI / ML Infrastructure
-![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square&logo=pytorch&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketverma11&show_icons=true&theme=transparent&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=cdd6f4&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketverma11&layout=compact&theme=transparent&hide_border=true&title_color=7C83FD&text_color=cdd6f4&bg_color=00000000" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketverma11&theme=transparent&hide_border=true&stroke=7C83FD&ring=7C83FD&fire=FF6B6B&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=666" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketverma11&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 B.Tech — Computer Science & Engineering**
-Dr. A.P.J. Abdul Kalam Technical University · 2022
-CGPA: 7.23
-
-</td>
-<td width="50%">
-
-**📜 Certifications**
-- Python & Django Framework — Udemy
-- Python OS Scripting — Coursera
-- SQL (Advanced) — HackerRank
-- Problem Solving — HackerRank
-- AWS Containerized Applications
-
-</td>
-</tr>
-</table>
+B.Tech, Computer Science & Engineering &nbsp;·&nbsp; Dr. A.P.J. Abdul Kalam Technical University &nbsp;·&nbsp; 2022 &nbsp;·&nbsp; 7.23 CGPA
 
 ---
 
 <div align="center">
 
-### 💬 Philosophy
-
-*"Infrastructure is the product. Build it like it will run for ten years."*
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=aniketverma11&color=7C83FD&style=flat-square&label=Profile+Views)](https://github.com/aniketverma11)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketverma11&show_icons=true&hide_border=true&theme=default&title_color=24292f&text_color=57606a&icon_color=0969da&bg_color=ffffff&hide_rank=false)](https://github.com/aniketverma11)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketverma11&layout=compact&hide_border=true&theme=default&title_color=24292f&text_color=57606a&bg_color=ffffff)](https://github.com/aniketverma11)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
